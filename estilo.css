@@ -3,7 +3,7 @@
   border-bottom: 3px solid #32b9cd;
 }
 
-body {
+.body {
   margin: 0;
   background-color: black;
   font-family: monospace;
