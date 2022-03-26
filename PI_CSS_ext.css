@@ -1,0 +1,32 @@
+.div1{
+    background-color: #be0a0a; 
+    width: 1000px; 
+    height: 400px;         
+    display: flex;
+}
+
+.div2{
+    background-color: rgb(31, 197, 67); 
+    width: 60%; 
+    height: 50%;
+}
+
+.div3{
+    color: #ffa600; 
+    background-color: fuchsia; 
+    font-family: fantasy; 
+    font-size: 90px; 
+    font-weight: 10;
+}
+
+.div4{
+    background-color: rgb(46, 14, 189); 
+    height: 30vh; 
+    width: 90%;
+}
+
+.div5{
+    background-color: rgb(0, 162, 255); 
+    height: 10%; 
+    width: 90vw;  
+}
